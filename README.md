@@ -1,4 +1,4 @@
-# Full Stack Boilerplate with JWT Authentication
+# Full Stack (Reactjs + nodejs +  graphQL + Mongodb) with JWT Authentication
 
 ### Database: Mongo, Mongoose ODM
 
